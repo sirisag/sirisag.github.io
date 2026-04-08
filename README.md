@@ -1,2 +1,2 @@
-# sirisag-github.io
+# sirisag.github.io
 web for sirisag
